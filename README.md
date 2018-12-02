@@ -1,3 +1,11 @@
+## Запуск приложения
+
+Для установки всех зависимостей нужно в командной строке директории приложения ввести `npm i`
+Для запуска проекта в DEV-режиме `npm start`
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
